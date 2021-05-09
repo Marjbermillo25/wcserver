@@ -1,0 +1,11 @@
+{
+  "name": "webapp_project",
+  "version": "1.0.0",
+  "description": "This is a web application project",
+  "main": "app.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "author": "Marjorie V. Bermillo",
+  "license": "ISC"
+}
